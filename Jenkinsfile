@@ -9,7 +9,7 @@ pipeline{
 				
 				rtMavenDeployer (
 					id: 'DEPLOYADOR',
-					serverId: 'artifactory',
+					serverId: 'artifactoryjfrog',
 					releaseRepo: 'parcial2IS',
 					snapshotRepo: '',
 				)
