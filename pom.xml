@@ -10,7 +10,7 @@
     </parent>
     <groupId>gt.edu.umg.ingenieria.sistemas.ingenieria_software.parcial2</groupId>
     <artifactId>bubble_sort</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>v1</version>
     <name>bubble_sort</name>
     <description>Demo project for Spring Boot</description>
     <properties>
